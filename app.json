@@ -10,6 +10,7 @@
     "visible": "true",
     "appname": "demo.masheryedmunds",
     "apppreview": "false",
-    "type":"appdesigner"
+    "type":"appdesigner",
+  	"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
 
