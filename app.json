@@ -1,5 +1,5 @@
 {
-    "reponame": "sample-masheryedmunds",
+    "repoName": "sample-masheryedmunds",
     "title": "Mashery Edmunds",
     "abbr": "MasheryEdmunds",
     "tooltip": "A demo app that features the Edmunds API, part of the Mashery API Network",
