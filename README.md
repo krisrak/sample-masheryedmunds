@@ -64,7 +64,7 @@ standard web languages (HTML5, CSS, and JavaScript).
 
 WHAT DOES THIS APP DO?
 ==================================================================
-Uses Edmunds's API to find data on any artist, any album, any song from the Edmunds catalog.
+Uses Edmunds's API to access vehicle specs, pricing, service bulletins and more from the Edmunds catalog.
 
 GETTING STARTED
 ==================================================================
